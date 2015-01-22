@@ -1,0 +1,24 @@
+{
+  "name": "ng-embed-code-form",
+  "version": "0.0.8",
+  "authors": [
+    "mvsouza <matheusvalientesouza@hotmail.com>"
+  ],
+  "description": "",
+  "main": "dist/ng-embed-code-form.js, dist/ng-embed-code-form.js",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1",
+    "angular": "~1.2.26",
+    "angular-sanitize": "~1.2.26",
+    "angular-mocks": "~1.2.26"
+  }
+}
